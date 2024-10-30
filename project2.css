@@ -1,0 +1,672 @@
+*{
+    margin: 0px;
+}
+.sec1{
+    /* background-color: black; */
+    background-image: url(ist.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* background-position: 50px; */
+    /* min-height: 1000px; */
+
+}
+.inbox1{
+    /* background-color: aqua; */
+     min-height: 200px;
+}
+.inbox2{
+    /* background-color: rgb(148, 161, 143); */
+    min-height: 200px;
+}
+
+.inbox3{
+    /* background-color: rgb(22, 33, 33); */
+    min-height: 200px;
+}
+.inbox4{
+    background-color:rgba(0, 0, 0, 0.436);
+    min-height: 300px;
+    margin-top: 95px;
+    padding: 15px;
+}
+.inbox5{
+    background-color:rgba(0, 0, 0, 0.436);
+    min-height: 300px;
+    margin-top: 95px;
+    padding: 15px;
+}
+.inbox6{
+    background-color: rgba(0, 0, 0, 0.436);
+    min-height: 300px;
+    margin-top: 95px;
+    padding: 15px;
+}
+.tci{
+    font-size: 50px;
+    font-style: italic;
+    color: rgba(212, 154, 46, 0.971);
+}
+.sec2{
+    background-color: white;
+    margin-top: 50px;
+    min-height: 600px;
+}
+.inbox7{
+    /* background-color: aqua; */
+    min-height: 600px;
+    background-image: url(pre.avif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 10px;
+    text-align: center;
+
+}
+.nh{
+    color: white;
+    text-align: center;
+    padding-top: 300px;
+}
+.st{
+    font-size: 16px;
+    color: white;
+    text-align: center;
+}
+.inbox8{
+    /* background-color: aqua; */
+    min-height: 500px;
+
+}
+.in1{
+    text-align: center;
+    text-shadow: 1px 1px 1px black;
+    padding-top: 30px;
+}
+.d{
+    background-color: rgb(243, 211, 4);
+    min-height: 10px;
+    width: 100px;
+    /* position: absolute; */
+    margin: auto;
+    /* right: 457px; */
+}
+.in2{
+    text-align: center;
+    padding-top: 40px;
+}
+.in3{
+    background-color: rgba(0, 0, 0, 0.434);
+    min-height: 175px;
+    text-align: center;
+    padding: 10px;
+    margin-top: 40px;
+    color:white;
+}
+a.more{
+    background-color: rgb(213, 206, 21);
+    padding: 10px;
+    height: 45px;
+    width: 100px;
+    text-align: center;
+    color: white;
+    margin-top: 25px;
+    display: inline-block;
+    text-decoration: none;
+}
+a.more:hover{
+    color: white;
+}
+.bi{
+    color: rgb(248, 184, 6);
+    font-size: 75px;
+
+
+}
+.head{
+    color: white;
+    padding-top: 105px;
+}
+.e{
+    color: white;
+    padding-top: 15px;
+}
+.m{
+    color: white;
+    font-size: 20px;
+    display: inline-block;
+    text-decoration: none;
+    padding: auto;
+    border: solid 1px yellow;
+    /* margin-left: 25px; */
+    text-align: center;
+    /* padding-left: 35px; */
+    padding: 5px 25px;
+
+}
+a.m:hover{
+    color: white;
+
+}
+.bb{
+    color: rgb(248, 184, 6);
+    font-size: 75px;
+}
+.indus{
+    color: white;
+    padding-top: 105px;
+}
+.sec3{
+    background-color: rgba(228, 228, 228, 0.633);
+    min-height: 2200px;
+}
+.inbox9{
+    /* background-color: aqua; */
+    min-height: 300px;
+    margin-top: 70px;
+    text-align: justify;
+}
+.inbox10{
+    min-height: 300px;
+    background-image: url(photo.avif);
+    margin-top: 150px;
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: 400px;
+}
+.inbox11{
+    /* background-color: aquamarine; */
+    min-height: 200px;
+    margin-top: 70px;
+    background-image: url(bbp.jpg);
+    background-repeat: no-repeat;
+}
+.inbox12{
+    margin-top: 70px;
+    padding-left: 70px;
+}
+.c{
+    color: rgb(248, 184, 6);
+    font-size: 20px;
+}
+.points{
+    color: black;
+    padding: 10px;
+}
+.inbox13{
+    /* background-color: aqua; */
+    min-height: 200px;
+    /* margin-top: 70px; */
+    font-size: 400%;
+    text-align: center;
+    font-style: bold;
+    text-shadow: 1px 1px 1px black;
+    padding-top: 25px;
+}
+.inbox14{
+    /* background-color: aqua; */
+    min-height: 100px;
+    text-align: center;
+    font-size: 20px;
+    /* position: absolute; */
+    /* right: 190px; */
+  
+    
+}
+.inbox15{
+    background-color: rgb(235, 135, 12);
+    min-height: 400px;
+    margin-top: 90px;
+    text-align: center;
+    color: white;
+    padding: 25px;
+    padding-top: 100px;
+}
+.inbox16{
+    /* background-color: aqua; */
+    min-height: 400px;
+    margin-top: 90px;
+    background-image: url(prem.avif);
+    background-repeat: no-repeat;
+    background-size: 600px;
+    background-position: center;
+}
+.inbox17{
+    background-color: rgb(235, 135, 12);
+    min-height: 400px;
+    margin-top: 90px;
+    text-align: center;
+    color: white;
+    padding: 25px;
+    padding-top: 100px;
+}
+.inbox18{
+     /* background-color: aqua; */
+     min-height: 400px;
+     margin-top: 30px;
+     background-image: url(pho.avif);
+     background-repeat: no-repeat;
+     background-size: cover;
+     background-position: center;
+ 
+}
+.inbox19{
+    background-color: white;
+    min-height: 400px;
+    margin-top: 30px;
+    text-align: center;
+    color: black;
+    padding: 25px;
+    padding-top: 100px;
+}
+.inbox20{
+      /* background-color: aqua; */
+      min-height: 400px;
+      margin-top: 30px;
+      background-image: url(eee.avif);
+      background-repeat: no-repeat;
+      background-size: cover;
+      background-position: center;
+}
+.inn{
+    /* background-color: antiquewhite; */
+    height: 20px;
+    margin-top: 10px;
+    text-align: center;
+}
+.sec4{
+    min-height: 350px;
+    /* background-color: aqua; */
+    background-image: url(sam.avif);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.bc{
+    background-color: rgba(0, 0, 0, 0.652);
+    min-height: 100%;
+    width: 100%;
+}
+.pp{
+    color: rgb(248, 184, 6);
+    font-size: 40px;
+    
+}
+.no{
+    color: white;
+    font-size: 80px;
+}
+.s{
+    color: rgb(248, 184, 6);
+    font-size: 20px;
+}
+.inbox21{
+    text-align: center;
+    padding-top: 75px;
+    min-height: auto;
+}
+.sec5{
+    background-color: white;
+    min-height: 100px;
+}
+.g{
+    color: white;
+}
+.inbox22{
+    background-color: rgb(248, 184, 6);
+    text-align: center;
+    margin-top: 30px;
+}
+.inbox23{
+    text-align: center;
+    margin-top: 30px;
+}
+.sec6{
+    background-color: white;
+    min-height: 500px;
+}
+.inbox24{
+    background-image: url(milano.avif);
+    min-height: 400px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 20px;
+}
+.inbox25{
+    padding: 15px;
+    padding-right: 25px;
+    /* font-family: bold; */
+    font-size: 18px;
+}
+.sec7{
+    background-color: white;
+    min-height: 200px;
+}
+.inbox26{
+    font-size: 65px;
+    text-align: center;
+    color: black;
+    min-height: auto;
+}
+.inbox27{
+    font-size: 18px;
+    text-align: center;
+    color: black;
+    padding: 0px 55px 0px 55px;
+    min-height: auto;
+}
+.sec8{
+    background-color: white;
+    min-height: 700px;
+    margin-top: 20px;
+}
+.sb{
+    background-color: rgb(255, 200, 0);
+    height: 200px;
+    padding-top: 25px;
+    color: white;
+}
+.ba{
+    background-color: rgb(234, 192, 129);
+    height: 200px;
+    padding-top: 25px;
+}
+.inbox28{
+    font-size: 40px;
+    text-align: center;
+}
+.th{
+    font-size: 65px;
+}
+.sb{
+    font-size: 40px;
+    text-align: center;
+}
+.tt{
+    font-size: 65px;
+}
+.inbox30{
+    background-image: url(hd.avif);
+    min-height: 600px;
+    background-size:cover ;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.inbox31{
+    min-height: auto;
+    background-color: rgba(248, 229, 200, 0.778);
+    font-size: 18px;
+    text-align: center;
+    padding-top: 55px;
+}
+.inbox32{
+    min-height: 400px;
+    background-color: white;
+    font-size: 18px;
+    text-align: center;
+    padding-top: 55px;
+}
+.bn{
+
+    background-color: rgb(234, 192, 129);
+
+    display: inline-block;
+    color: black;
+    font-size: 25px;
+    padding: 10px 20px;
+    margin: 50px 0px;
+    text-decoration: none;
+}
+a.bn:hover{
+    color: black;
+}
+.bm{
+
+    background-color: rgb(255, 200, 0);
+
+    display: inline-block;
+    color: white;
+    font-size: 25px;
+    padding: 10px 20px;
+    margin: 50px 0px;
+    text-decoration: none;
+}
+a.bm:hover{
+    color: white;
+}
+.sec9{
+    min-height: 700px;
+    background-image: url(mb.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding-bottom: 15px;
+}
+.bg{
+    font-size: 55px;
+}
+.inbox33{
+    color: white;
+    text-align: center;
+    padding-top: 45px;
+}
+.inbox34{
+    background-color: white;
+    min-height: 300px;
+    margin-top: 35px;
+    padding: 37px;
+    padding-top: 25px;
+    font-size: 20px;
+    text-align: center;
+
+}
+.inbox35{
+    background-color: white;
+    min-height: 300px;
+    margin-top: 35px;
+    padding: 37px;
+    padding-top: 25px;
+    font-size: 20px;
+    text-align: center;
+}
+.inbox36{
+    background-color: white;
+    min-height: 300px;
+    margin-top: 35px;
+    padding: 37px;
+    padding-top: 25px;
+    font-size: 20px;
+    text-align: center;
+}
+.inbox37{
+    background-color: white;
+    min-height: 300px;
+    margin-top: 35px;
+    padding: 37px;
+    padding-top: 25px;
+    font-size: 20px;
+    text-align: center;
+}
+.inbox38{
+    color: white;
+    text-align: center;
+    margin-top: 25px;
+}
+.n{
+    color: white;
+    font-size: 20px;
+    display: inline-block;
+    text-decoration: none;
+    padding: auto;
+    border: solid 1px white;
+    /* margin-left: 25px; */
+    text-align: center;
+    /* padding-left: 35px; */
+    padding: 5px 25px;
+
+}
+.n:hover{
+    color: white;
+}
+.inbox39{
+    text-align: center;
+    margin-top: 25px;
+}
+.ms{
+    border-radius: 50%;
+    min-height: 170px;
+    background-position: center;
+}
+.md{
+    border-radius: 50%;
+    min-height: 200px;
+}
+.ch{
+    border-radius: 50%;
+    min-height: 200px;
+}
+.sec10{
+    background-color: rgba(128, 128, 128, 0.153);
+    min-height: 600px;
+}
+.inbox40{
+    font-size: 65px;
+    text-align: center;
+    text-shadow: 1px 1px 1px black;
+    padding-top: 25px;
+}
+.inbox41{
+    background-color: white;
+    min-height: 300px;
+    margin-top: 35px;
+    border-radius: 30px;
+    text-align: justify;
+    padding-top: 25px;
+    padding: 65px;
+}
+.gi{
+    border-radius: 50%;
+    min-height: 100px;
+}
+.cel{
+    font-size: 20px;
+    padding-left: 60px;
+    color: rgba(69, 68, 68);
+}
+.inbox42{
+    padding-top: 15px;
+}
+.ash{
+    color: rgb(69, 68, 68);
+    padding-left: 60px;
+    font-size: 16px;
+   
+}
+.inbox43{
+    background-color: white;
+    min-height: 300px;
+    margin-top: 35px;
+    border-radius: 30px;
+    text-align: justify;
+    padding-top: 25px;
+    padding: 65px;
+}
+.gir{
+    border-radius: 50%;
+    height: 130px;
+}
+.inbox44{
+    padding-top: 15px;
+    min-height: auto;
+}
+.inbox45{
+    
+    color: white;
+    min-height: 50px;
+    font-size: 18px;
+    margin-top: 45px;
+    text-align: center;
+}
+.vm{
+    text-decoration: none;
+    color: white;
+    margin-top: 45px;
+    background-color: rgb(243, 177, 54);
+    padding: 5px 10px;
+
+
+}
+.vm:hover{
+    color: white;
+}
+.sec11{
+    min-height: 500px;
+    background-image: url(png.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.inbox46{
+    background-color: white;
+    min-height: 300px;
+    text-align: center;
+    font-size: 25px;
+    padding-top: 55px;
+    margin-top: 140px;
+}
+.lo{
+    color: rgb(255, 187, 0);
+    font-size: 65px;
+}
+.lh{
+    font-size: 18px;
+    color: rgb(63, 62, 62);
+}
+.inbox47{
+    background-color: rgb(236, 165, 12);
+    min-height: 300px;
+    text-align: center;
+    font-size: 25px;
+    padding-top: 55px;
+    margin-top: 140px;
+    color: white;
+}
+.ph{
+    font-size: 65px;
+}
+.pho,.em{
+    font-size: 18px;
+}
+.inbox48{
+    background-color: white;
+    min-height: 300px;
+    text-align: center;
+    font-size: 25px;
+    padding-top: 55px;
+    margin-top: 140px;
+}
+.pg{
+    color: rgb(255, 187, 0);
+    font-size: 65px;
+}
+.sec12{
+    background-color: black;
+    height: 150px;
+}
+.inbox49{
+    color: white;
+    text-align: center;
+    padding-top: 50px;
+}
+.solid{
+    background-color: transparent !important;
+}
+.se{
+    color: white;
+    margin-top: 10px;
+    margin-left: -35px;
+}
+.ho{
+    color: rgb(226, 175, 22) !important;
+    font-size: 20px;
+}
+.ab, .con{
+    color: black !important;
+    font-size: 20px;
+}
